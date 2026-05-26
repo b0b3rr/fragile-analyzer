@@ -1,0 +1,6 @@
+org\example\JsonReportWriter.class
+org\example\TestMethodMetrics.class
+org\example\Main.class
+org\example\FragilityVisitor$1.class
+org\example\FragilityVisitor$2.class
+org\example\FragilityVisitor.class

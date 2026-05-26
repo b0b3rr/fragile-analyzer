@@ -1,0 +1,13 @@
+[ {
+  "className" : "UserServiceFragileTest",
+  "methodName" : "shouldRegisterUser",
+  "verifyCount" : 2,
+  "assertCount" : 1,
+  "fragilityIndex" : 0.67
+}, {
+  "className" : "UserServiceRobustTest",
+  "methodName" : "shouldRegisterUser_returnSavedUser",
+  "verifyCount" : 0,
+  "assertCount" : 2,
+  "fragilityIndex" : 0.0
+} ]
