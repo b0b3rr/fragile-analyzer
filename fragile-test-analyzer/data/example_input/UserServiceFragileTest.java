@@ -36,7 +36,6 @@ class UserServiceFragileTest {
     }
 }
 
-// Mock-сущности для компиляции
 class User {
     private String email;
     private String name;
