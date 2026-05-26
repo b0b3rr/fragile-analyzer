@@ -32,7 +32,6 @@ class UserServiceRobustTest {
     }
 }
 
-// Дублируем сущности для независимой компиляции (можно было бы вынести в отдельные файлы, но для примера ок)
 class User {
     private String email;
     private String name;
